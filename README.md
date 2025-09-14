@@ -5,13 +5,13 @@
 # 👋 Salut, moi c’est Yann-Arthur Tcheumani  
 
 Bienvenue sur mon GitHub !  
-Je suis un développeur **polyvalent** passionné par la **création de projets innovants** et la **résolution de problèmes concrets**. J’explore différents domaines du développement (web, cloud, IA, blockchain) tout en avançant sur mes projets personnels et professionnels.  
+Je suis un développeur **polyvalent** passionné par la **création de projets innovants** et la **résolution de problèmes concrets**. J’explore différents domaines du développement (web, cloud, IA, robotique) tout en avançant sur mes projets personnels et professionnels.  
 
 ---
 
 ## 🚀 À propos de moi  
 - 🎓 Étudiant à **EPITECH**  
-- 💻 Développeur passionné par le **web**, le **cloud (AWS)**, la **Data Science** et la **Iot**
+- 💻 Développeur passionné par le **web**, le **cloud (AWS)**, la **Data Science** et **Iot**
 <!-- - 🕹️ Fondateur de **[YPLAY](https://yplay.fr)**, une plateforme de jeux compétitifs où l’on peut jouer, gagner et briller ✨ -->
 - 📊 Expérience en **data analyse**, **backend (FastAPI, Python, Node.js)**, et **frontend (React, Next.js, Vite, TailwindCSS)**  
 - ☁️ Exploration du **serverless (AWS Lambda, Cognito, DynamoDB, Amplify)**  

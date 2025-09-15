@@ -28,7 +28,7 @@ Je suis un développeur **polyvalent** passionné par la **création de projets 
 
 
 
-![FastApi](https://img.shields.io/badge/FastApi-009485?style=for-the-badge&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/django-44B78B?style=for-the-badge&logo=django&logoColor=white)  ![streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)  
+![FastApi](https://img.shields.io/badge/FastApi-009485?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/flask-004b6b?style=for-the-badge&logo=flask&logoColor=white)  ![streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)  
 
 
 ### Bases de données & Cloud  

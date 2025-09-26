@@ -12,7 +12,7 @@ Je suis un développeur **polyvalent** passionné par la **création de projets 
 ## 🚀 À propos de moi  
 - 🎓 Étudiant à **EPITECH**  
 - 💻 Développeur passionné par le **web**, le **cloud (AWS)**, la **Data Science** et **Iot**
-<!-- - 🕹️ Fondateur de **[YPLAY](https://yplay.fr)**, une plateforme de jeux compétitifs où l’on peut jouer, gagner et briller ✨ -->
+- 🕹️ Fondateur de **[YPLAY](https://yplay.fr)**, une plateforme de jeux compétitifs où l’on peut jouer, gagner et briller ✨ 
 - 📊 Expérience en **data analyse**, **backend (FastAPI, Python, Node.js)**, et **frontend (React, Next.js, Vite, TailwindCSS)**  
 - ☁️ Exploration du **serverless (AWS Lambda, Cognito, DynamoDB, Amplify)**  
 <!-- - 🔗 Intérêt pour la **blockchain** et l’intégration de cryptomonnaies dans des projets réels   -->
@@ -43,8 +43,9 @@ Je suis un développeur **polyvalent** passionné par la **création de projets 
 
 ---
 
-<!-- ## 🌍 Projets clés  
-<!-- - 🎮 **YPLAY** → Plateforme de jeux compétitifs avec système de monnaie virtuelle (YCoins), classement et abonnements freemium/premium   -->
+## 🌍 Projets clés  
+- 🎮 **YPLAY** → Plateforme de jeux compétitifs avec système de monnaie virtuelle (YCoins), classement et abonnements freemium/premium
+
 <!-- - 📊 **welcooom_data** → Projet de data analyse et dashboarding pour LesCityzens  
 - ☁️ Migration & déploiement de solutions sur **AWS** et **O2Switch**   -->
 
